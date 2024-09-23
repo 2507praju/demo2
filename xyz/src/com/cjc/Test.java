@@ -5,5 +5,8 @@ public class Test {
 		
 		System.out.println("main method");
 	}
-
-}
+        public void m1()
+	{
+		system.out.println("this is m1");
+		
+	}}
